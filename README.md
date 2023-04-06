@@ -1,8 +1,8 @@
 # MWaqas
 my personal repository
     <h1 align="center">Hi 👋, I'm Muhammad Waqas</h1>
-    <h3 align="center">A passionate frontend developer from Pakistan</h3>
-    <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdesignbuffs.com%2Ffree-illustrations%2F&psig=AOvVaw1E1Eh5WAwT9J5oCdSY48YR&ust=1680823351200000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIDTlYfxk_4CFQAAAAAdAAAAABAE" alt="">
+    <h3 align="right">A passionate frontend developer from Pakistan</h3>
+    <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fsfx-estudio&psig=AOvVaw17i9In-8B9iJimc_cVxWLr&ust=1680826617970000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCICX9Z39k_4CFQAAAAAdAAAAABAJ" alt="Coding">
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwaqasmw&label=Profile%20views&color=0e75b6&style=flat" alt="mwaqasmw" /> </p>
     <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
     - 🌱 I’m currently learning **Bootstrap and JavaScript**
